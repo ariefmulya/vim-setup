@@ -28,8 +28,8 @@ set showmatch
 set showcmd 
 
 "opening buffer in tab
-:tab sball
-:set switchbuf=usetab,newtab
+":tab sball
+":set switchbuf=usetab,newtab
 
 " jump to last line
 if has("autocmd")
